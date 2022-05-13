@@ -5,7 +5,7 @@ There are 3 files:
 
 - utils_synfire.py has the DenseLayer model and the plotting functions that are called by 1_Synfire_Chain_Lava.ipynb.
 
--2_Synfire_Chain_Brian2.ipynb is a jupyter notebook with the implemenation in Brian2.
+- 2_Synfire_Chain_Brian2.ipynb is a jupyter notebook with the implemenation in Brian2.
 
 The Operative System employed was Windows 11.
 
