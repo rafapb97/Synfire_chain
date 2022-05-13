@@ -10,7 +10,7 @@ There are 3 files:
 The Operative System employed was Windows 11.
 
 To run the files:
-Install conda: https://www.anaconda.com/products/distribution
+- Install conda: https://www.anaconda.com/products/distribution
 
 - conda create --name synfire_env python = 3.8.1
 
