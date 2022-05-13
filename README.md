@@ -15,6 +15,7 @@ Install conda: https://www.anaconda.com/products/distribution
 conda create --name synfire_env python = 3.8.1
 
 Install lava according to the directives in: https://lava-nc.org/
+
 Install Brian2 according to the directives in: https://brian2.readthedocs.io/en/stable/introduction/install.html
 
 conda install -c conda-forge nb_conda_kernels
