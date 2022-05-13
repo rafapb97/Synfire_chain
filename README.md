@@ -12,16 +12,16 @@ The Operative System employed was Windows 11.
 To run the files:
 Install conda: https://www.anaconda.com/products/distribution
 
-conda create --name synfire_env python = 3.8.1
+- conda create --name synfire_env python = 3.8.1
 
-Install lava according to the directives in: https://lava-nc.org/
+- Install lava according to the directives in: https://lava-nc.org/
 
-Install Brian2 according to the directives in: https://brian2.readthedocs.io/en/stable/introduction/install.html
+- Install Brian2 according to the directives in: https://brian2.readthedocs.io/en/stable/introduction/install.html
 
-conda install -c conda-forge nb_conda_kernels
-conda install ipykernel
+- conda install -c conda-forge nb_conda_kernels
+- conda install ipykernel
 
-Unzip coding_assignment
-Change directory to ~/coding_assignment
-Lauch jupyter notebooks using the synfire_env kernel.
-Run everything and see notes.
+- Unzip coding_assignment
+- Change directory to ~/coding_assignment
+- Lauch jupyter notebooks using the synfire_env kernel.
+- Run everything and see notes.
